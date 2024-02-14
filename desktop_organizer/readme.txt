@@ -1,5 +1,7 @@
 DESKTOP ORGANIZER
 
+--------------------------------------------------
+
 Este script ruby organiza a área de trabalho da seguinte maneira:
 
 Um novo diretório é criado no local em que o arquivo .rb está e o nome do mesmo é definido como desktop-organizer
@@ -9,7 +11,7 @@ Exemplo: desktop_organizator/05-06-23/download.pdf
 
 Neste exemplo, um dos arquivos presentes no diretório organizado era o arquivo-exemplo.txt e sua ultima modificação foi no dia 5 de junho de 2023.
 
-----------
+--------------------------------------------------
 
 This Ruby script organizes the desktop in the following way:
 
