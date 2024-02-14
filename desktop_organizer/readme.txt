@@ -1,3 +1,5 @@
+DESKTOP ORGANIZER
+
 Este script ruby organiza a área de trabalho da seguinte maneira:
 
 Um novo diretório é criado no local em que o arquivo .rb está e o nome do mesmo é definido como desktop-organizer
